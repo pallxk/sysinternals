@@ -62,8 +62,6 @@ To list junctions beneath a directory, include the –s switch:
 
 To create a junction c:\\Program-Files for "c:\\Program Files":
 
-**C:\\&gt;md Program-Files**
-
 **C:\\&gt;junction c:\\Program-Files "c:\\Program Files"**
 
 To delete a junction, use the –d switch:
